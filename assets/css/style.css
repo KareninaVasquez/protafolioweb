@@ -1,0 +1,130 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #FFF1EF;
+  color: black;
+  font-size: 0.8rem;
+  padding: 0*;
+}
+
+header {
+  background-color: #FFF1EF;
+  padding-bottom: 7rem;
+  background-image: url('../img/headerbg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 0.8rem;
+}
+
+.navbgcolor{
+ background-color: #FFF1EF;
+}
+
+
+.card {
+  border-radius: 0;
+}
+
+.logokarenina {
+  width: 50px;
+}
+
+.holacuadro {
+  border: 2px solid black;
+  width: 120px;
+  font-style: italic;
+}
+
+.textorosa {
+  color: #D72E64;
+}
+
+.fondoverde {
+  background-color: #E1F7E1;
+}
+
+.fondoamarillo {
+  background-color: #FDFED7;
+}
+
+.fondoazul {
+  background-color: #E4F3F7;
+}
+
+.fondorosa {
+  background-color: #D72E64;
+}
+
+.iwhite {
+  color: white;
+}
+
+.navbar-brand {
+  font-family: 'Bitter', serif;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #D72E64;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url('../img/burger.svg');
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.btn-danger {
+  background-color: #D72E64;
+  border-color: #D72E64;
+  color: white;
+  font-size: 0.8rem;
+}
+
+.progress-bar {
+  background-color: #D72E64;
+  height: 10px;
+}
+
+.progress  {
+  background-color: #FFFFFF;
+  height: 10px;
+  border: 0.5px solid #C2DAE0;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #D72E64;
+}
+
+
+.tipodiseno {
+  font-size: 0.57rem;
+}
+
+.creditos {
+  font-size: 0.5rem;
+}
